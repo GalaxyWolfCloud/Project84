@@ -85,7 +85,7 @@ function numberkey()
 
 function arrowkey()
  {
-    img_image= "arrkey.png";
+    img_image= "Arrkey.png";
     add();
 }
 
